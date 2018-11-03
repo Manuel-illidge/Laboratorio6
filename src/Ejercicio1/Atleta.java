@@ -1,11 +1,9 @@
 /*
  * SENA
  * Analisis y Desarrollo de Sistemas de Información
- * Autor GAES 2:
-    * Aldo Javier Navarro Perez
+   
     * Manuel Alfonso Illidge Ramirez
-    * Roberto Jose Serrano Perez
-    * William Alexander Tejada Embuz
+    
 
     LABORATORIO 6 - Elementos del lenguaje de programación
 y estructuras de datos en java
